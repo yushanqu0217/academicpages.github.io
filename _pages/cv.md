@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Industrial & Operations Engineering, University of Michigan, 2027 (expected)
-% * M.S. in Jekyll, GitHub University, 2014
+<!--M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in Applied Mathematics, Ohio State University, 2022
 
 <!--Work experience
